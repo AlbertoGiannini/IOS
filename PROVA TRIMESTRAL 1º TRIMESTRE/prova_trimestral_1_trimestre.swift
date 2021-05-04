@@ -75,7 +75,7 @@ else if (qtdRunas == 2) {
   let soma = n1 + n2 
   print("Soma da amizade das runas é: \(soma)")
   print("------------------------------------------")
-  if (n1 <= 10) {
+  if (soma <= 10) {
   print("My precioooous")
 }
 else {
@@ -89,7 +89,7 @@ let n3 = soNumeros[qtdRunas]
 let soma = n1 + n2 + n3
 print("Soma da amizade das runas é: \(soma)")
 print("------------------------------------------")
-  if (n1 <= 10) {
+  if (soma <= 10) {
   print("My precioooous")
 }
 else {
@@ -104,7 +104,7 @@ let n4 = soNumeros[qtdRunas]
 let soma = n1 + n2 + n3 + n4
 print("Soma da amizade das runas é: \(soma)")
 print("------------------------------------------")
-  if (n1 <= 10) {
+  if (soma <= 10) {
   print("My precioooous")
 }
 else {
@@ -120,7 +120,7 @@ let n5 = soNumeros[qtdRunas]
 let soma = n1 + n2 + n3 + n4 + n5
 print("Soma da amizade das runas é: \(soma)")
 print("------------------------------------------")
-  if (n1 <= 10) {
+  if (soma <= 10) {
   print("My precioooous")
 }
 else {
@@ -137,7 +137,7 @@ let n6 = soNumeros[qtdRunas]
 let soma = n1 + n2 + n3 + n4 + n5 + n6
 print("Soma da amizade das runas é: \(soma)")
 print("------------------------------------------")
-  if (n1 <= 10) {
+  if (soma <= 10) {
   print("My precioooous")
 }
 else {
